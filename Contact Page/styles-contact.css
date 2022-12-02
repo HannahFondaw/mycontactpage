@@ -72,7 +72,7 @@ html, body {
 .center {
     width: 50%; /*responsiveness*/
     min-width: 300px; /*responsiveness*/
-	padding: 24%;
+	padding: 5%;
     margin: 100px auto;
  	/* background: rgba(0, 150, 178, .75);*/
      /*---this uses opacity of 75% for the background color---*/
